@@ -16,6 +16,8 @@ DSList é uma aplicação back-end desenvolvida em Java com o framework Spring B
 - JPA/Hibernate
 - Maven
 - H2
+- Postman
+- Docker
 
 ## Modelo de domínio 
 
