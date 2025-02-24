@@ -27,7 +27,7 @@ DSList é uma aplicação back-end desenvolvida em Java com o framework Spring B
 
 - Java 17 ou superior instalado
 - Maven 3.8.1 ou superior instalado
-- Banco de dados configurado (especifique as configurações necessárias)
+- Banco de dados configurado 
 
 ## Como Executar o Projeto
 
